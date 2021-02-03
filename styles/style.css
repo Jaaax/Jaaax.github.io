@@ -20,9 +20,9 @@ body{
     color: deeppink;
 }
 
+
 .fixed_div{
-    position: fixed;
-    left:600px;
+    margin-left:300px;
     bottom:300px;
     width:400px;
 }
