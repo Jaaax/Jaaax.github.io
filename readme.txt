@@ -1,4 +1,4 @@
-Seg3125 Lab1
+Seg3125 Lab1 group 4
 
 Riley de Domenico - 300016694
 
